@@ -1,0 +1,20 @@
+{
+    "name": "cherrylu/company-wechat",
+    "description": "企业微信",
+    "require": {
+        "php": ">=5.6",
+        "guzzlehttp/guzzle": "^6.5",
+        "vlucas/phpdotenv": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "cherry lu",
+            "email": "1002161225@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CherryLu\\CompanyWeChat\\": "src/"
+        }
+    } 
+}

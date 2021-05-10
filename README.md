@@ -1,0 +1,6 @@
+just a test
+企业微信接口
+
+env 变量名称：
+COMPANY_WECHAT_CORPID
+COMPANY_WECHAT_CORPSECRET
