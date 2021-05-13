@@ -15,7 +15,8 @@ class User extends Client {
      */
     public function users(int $department, $recursive = true) {
         return $this->get('cgi-bin/user/simplelist', [
-            'department_id' => $department
+            'department_id' => $department,
+            'fetch_child' => (int) $recursive,
         ]);
     }
 
