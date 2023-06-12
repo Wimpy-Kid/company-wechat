@@ -1,11 +1,11 @@
 <?php
 include 'vendor/autoload.php';
 
-// tlh .... ggggg
+// tlh .... ggggg  1
 
-// tlh .... ggg
+// tlh .... ggg  1
 $aha = new \CherryLu\CompanyWeChat\CompanyWeChat();
 
-// tlh ....  ggg
+// tlh ....  ggg1
 
 echo json_encode($aha->department->departmentList());
