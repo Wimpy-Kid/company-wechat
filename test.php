@@ -1,7 +1,10 @@
 <?php
 include 'vendor/autoload.php';
 
-// stable modify 2
+// cfy edited
 
 $aha = new \CherryLu\CompanyWeChat\CompanyWeChat();
+
+// cfy edited
+
 echo json_encode($aha->department->departmentList());
