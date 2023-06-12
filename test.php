@@ -1,7 +1,7 @@
 <?php
 include 'vendor/autoload.php';
 
-// tlh .... ggggg  1 123 灌灌灌灌灌 234234234
+// tlh .... ggggg  1 123 灌灌灌灌灌 234234234 12123123
 
 // tlh .... ggg  1  123   123123123  1231231231312
 $aha = new \CherryLu\CompanyWeChat\CompanyWeChat();
