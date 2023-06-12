@@ -6,6 +6,6 @@ include 'vendor/autoload.php';
 // tlh .... ggg  1  123  12312312
 $aha = new \CherryLu\CompanyWeChat\CompanyWeChat();
 
-// tlh ....  ggg1   123
+// tlh ....  ggg1   123 23234sdffs
 
 echo json_encode($aha->department->departmentList());
